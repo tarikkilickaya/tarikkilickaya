@@ -21,7 +21,7 @@ I'm reachable at these link:
 <img align="left" alt="PostgreSQL" width="55px" src="https://audviklabs.in/wp-content/uploads/2022/01/postgreSQL.png">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 
 
