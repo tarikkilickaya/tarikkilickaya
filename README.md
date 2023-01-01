@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hi everyone!
+
+I am Tarık. I am an automation tester. I use the Java programming language and the Selenium tool in my projects. For mobile automation, I use Appium. I am currently learning JavaScript. I'm actively attempting to use GitHub. 
+
+Other than that, I like listening to music and walking. I especially love walking while listening to music too much. 😄 (Those who know me know, I go out to every sunday evening for listening to music while walking. 😊) Although I like mostly instrumental and ethnic music, I have recently become interested in symphonic metal music. 
+
+I don't watch many movies, but when I want to watch it, I prefer arthouse movies. I don't watch serials because I'm not interesting to them.
 
 <!--
 **tarikkilickaya/tarikkilickaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
