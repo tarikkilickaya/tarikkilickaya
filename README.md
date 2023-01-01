@@ -1,6 +1,6 @@
 #### Hi everyone!
 
-I am Tarık. I am automation tester. I use the Java programming language and the Selenium tool in my projects. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. 
+I am Tarık and an automation tester. I use the Java programming language and the Selenium tool in my projects. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. 
 I am currently learning JavaScript. I'm actively attempting to use GitHub. 
 
 Other than that, I like listening to music and walking. I especially love walking while listening to music too much. 😄 (Those who know me know, I go out to every sunday evening for listening to music while walking. 😊) Although I like mostly instrumental and ethnic music, I have recently become interested in symphonic metal music. 
@@ -21,7 +21,7 @@ I'm reachable at these link:
 <img align="left" alt="PostgreSQL" width="55px" src="https://audviklabs.in/wp-content/uploads/2022/01/postgreSQL.png">
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 
