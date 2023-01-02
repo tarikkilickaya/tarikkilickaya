@@ -12,6 +12,10 @@ I'm reachable at these link:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-191279?style=flat-quare&labelColor=0191255&logo=LinkedIn&logoColor=blue&link=link)](https://www.linkedin.com/in/tarikkilickaya) 
 
 
+
+![Tarık's stats](https://github-readme-stats.vercel.app/api?username=tarikkilickaya&show_icons=true&theme=dark)
+
+
 ### 🔧 Languages and Tools:
 
 <img align="left" alt="Java" width="41px" src="https://store.donanimhaber.com/e8/87/c3/e887c31e7c83257c4b08265cad22f442.jpg" >
