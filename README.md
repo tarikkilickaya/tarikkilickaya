@@ -1,12 +1,44 @@
-#### Hi everyone!
+## Hi everyone!
 
-I am Tarık and an automation tester. I use the Java programming language and the Selenium tool in my projects. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. 
+I am Tarık and an automation tester. I use the Java programming language and the Selenium tool in my works. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. 
 I am currently learning JavaScript. I'm actively attempting to use GitHub. 
 
 Other than that, I like listening to music and walking. I especially love walking while listening to music too much. 😄 Those who know me know, I go out to every sunday evening for listening to music while walking. 😊 Although I like mostly instrumental and ethnic music, I have recently become interested in symphonic metal music. 
 
 I don't watch many movies, but when I want to watch it, I prefer arthouse movies. I don't watch serials because I'm not interesting to them.
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tarikkilickaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarikkilickaya" height="30" width="40" /></a>
+</p>
+
+
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">
+<!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<!-- Selenium -->
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+<!-- Cucumber -->
+<a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="cucumber" width="40" height="40"/> </a>
+<!-- Maven -->
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xtremepc.co.kr/wp-content/uploads/2020/04/Apache-Maven.jpg?fit=1200%2C1200&ssl=1" alt="maven" width="40" height="40"/> </a> 
+<!-- Appium -->
+<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="45" height="42"/></a>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/> </a>
+<!-- Cypress -->
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
+<!-- XRAY -->
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/278-2785292_xray-for-jira-logo-hd-png-download.png" alt="xray" width="40" height="40"/> </a>
+</p>
 
 
 
