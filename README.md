@@ -22,6 +22,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <!-- Cucumber -->
 <a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="cucumber" width="40" height="40"/> </a>
+<!-- Maven -->
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xtremepc.co.kr/wp-content/uploads/2020/04/Apache-Maven.jpg?fit=1200%2C1200&ssl=1" alt="maven" width="40" height="40"/> </a> 
 <!-- Appium -->
 <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="45" height="42"/></a>
@@ -45,6 +46,10 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 <!-- Jira -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
+<!-- XRAY -->
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>
+  
+  
 </p>
 
 
