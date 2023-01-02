@@ -47,17 +47,14 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Jira -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <!-- XRAY -->
-<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>
-  
-  
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
 </p>
-
-
 
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=tarikkilickaya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+![snake gif](https://github.com/tarikkilickaya/tarikkilickaya/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **tarikkilickaya/tarikkilickaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
