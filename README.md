@@ -13,7 +13,7 @@ I'm reachable at these link:
 
 
 
-![Tarık's stats](https://github-readme-stats.vercel.app/api?username=tarikkilickaya&show_icons=true&theme=dark)
+
 
 
 ### 🔧 Languages and Tools:
