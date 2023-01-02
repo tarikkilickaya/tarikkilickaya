@@ -11,7 +11,7 @@ I'm reachable at these link:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-191279?style=flat-quare&labelColor=0191255&logo=LinkedIn&logoColor=blue&link=link)](https://www.linkedin.com/in/tarikkilickaya) 
 
-
+![Tarık's stats](https://github-readme-stats.vercel.app/api?username=tarikkilickaya&show_icons=true&theme=dark)
 
 
 
