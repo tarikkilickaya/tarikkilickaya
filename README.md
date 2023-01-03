@@ -23,7 +23,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Cucumber -->
 <a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="cucumber" width="40" height="40"/> </a>
 <!-- Maven -->
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="maven" width="75" height="40"/> </a> 
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="maven" width="80" height="40"/> </a> 
 <!-- Appium -->
 <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="45" height="42"/></a>
 <!-- JavaScript -->
