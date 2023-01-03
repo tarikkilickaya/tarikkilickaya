@@ -1,6 +1,6 @@
 ## 💫 Hi everyone!
 
-I am Tarık and an automation tester. I use the Java programming language and the Selenium tool in my works. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. 
+I am Tarık and an automation tester. I use the Java programming language and the Selenium tool in my works. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. I automate API tests using RestAssured library after running it manually in Postman.
 I am currently learning JavaScript. I'm actively attempting to use GitHub. 
 
 Other than that, I like listening to music and walking. I especially love walking while listening to music too much. 😄 Those who know me know, I go out to every sunday evening for listening to music while walking. 😊 Although I like mostly instrumental and ethnic music, I have recently become interested in symphonic metal music. 
