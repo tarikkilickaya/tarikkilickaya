@@ -23,7 +23,9 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Cucumber -->
 <a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="cucumber" width="40" height="40"/> </a>
 <!-- TestNG -->
-<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://profitsoft.dev/static/app/img/testng.png" alt="testng" width="45" height="42"/> </a>  
+<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://profitsoft.dev/static/app/img/testng.png" alt="testng" width="45" height="42"/> </a> 
+<!-- JUnit -->
+<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://profitsoft.dev/static/app/img/junit.png" alt="junit" width="42" height="42"/> </a> 
 <!-- Lambda -->
 <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lambda-icon.png" alt="lambda" width="40" height="40"/> </a> 
 <!-- Maven -->
