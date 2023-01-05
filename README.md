@@ -45,7 +45,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a>  
 <!-- Postman -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>
 <!-- Appium Inspector -->
 <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
 <!-- VS Code -->
