@@ -25,7 +25,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Lambda -->
 <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lambda-icon.png" alt="lambda" width="40" height="40"/> </a> 
 <!-- Maven -->
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="90" height="38"/> </a> 
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="38"/> </a> 
 <!-- Appium -->
 <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" alt="appium" width="40" height="40"/></a>
 <!-- HTML -->
