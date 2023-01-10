@@ -57,9 +57,6 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 </p>
 
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=tarikkilickaya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 ![snake gif](https://github.com/tarikkilickaya/tarikkilickaya/blob/output/github-contribution-grid-snake.gif)
 
 <!--
