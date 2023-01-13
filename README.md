@@ -1,7 +1,7 @@
 ## 💫 Hi everyone!
 
 I am Tarık and an automation tester. I use the Java programming language and the Selenium tool in my works. For mobile automation, I use Appium. Additionally, I conduct database tests using JDBC. I automate API tests using RestAssured library after running it manually in Postman.
-I am currently learning JavaScript. I'm actively attempting to use GitHub. 
+I am currently learning JavaScript and Cypress. I'm actively attempting to use GitHub. 
 
 Other than that, I like listening to music and walking. I especially love walking while listening to music too much. 😄 Those who know me know, I go out to every sunday evening for listening to music while walking. 😊 Although I like mostly instrumental and ethnic music, I have recently become interested in symphonic metal music. 
 
@@ -58,18 +58,3 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 
 
 ![snake gif](https://github.com/tarikkilickaya/tarikkilickaya/blob/output/github-contribution-grid-snake.gif)
-
-<!--
-**tarikkilickaya/tarikkilickaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
