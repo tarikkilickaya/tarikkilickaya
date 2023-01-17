@@ -21,7 +21,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Selenium -->
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="selenium" width="40" height="40"/> </a> 
 <!-- Cucumber -->
-<a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
 <!-- Appium -->
 <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="40" height="40"/></a>
 <!-- Appium Inspector -->
