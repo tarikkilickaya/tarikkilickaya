@@ -14,42 +14,38 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 </p>
 
 
-<h2 align="left">Programming Languages and Automation Tools:</h2>
+<h2 align="left">Technical Skills:</h2>
 <p align="left">
 <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a> 
 <!-- Selenium -->
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="selenium" width="40" height="40"/> </a> 
 <!-- Cucumber -->
 <a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
+<!-- Appium -->
+<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="40" height="40"/></a>
+<!-- Appium Inspector -->
+<a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/> </a> 
+ <!-- HTML -->
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="43" height="42"/></a>
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="44" height="43"/></a>
+ <!-- Cypress -->
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png" alt="cypress" width="40" height="40"/> </a>
 <!-- Lambda -->
 <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lambda-icon.png" alt="lambda" width="40" height="40"/> </a> 
 <!-- Maven -->
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="38"/> </a> 
-<!-- Appium -->
-<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="40" height="40"/></a>
-<!-- HTML -->
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="43" height="42"/></a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="44" height="43"/></a>
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/> </a> 
-<!-- Cypress -->
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png" alt="cypress" width="40" height="40"/> </a>
-</p> 
-
-<h2 align="left">Apps:</h2>
-<p align="left">
 <!-- IntelliJ -->
 <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a>  
-<!-- Postman -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>
-<!-- Appium Inspector -->
-<a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+ <!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>
 <!-- Swagger -->
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="swagger" width="40" height="40"/> </a>
 <!-- git -->
