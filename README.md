@@ -55,8 +55,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- XRAY -->
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
 <!-- Jenkins -->
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>  
-</p>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 
 
 ![snake gif](https://github.com/tarikkilickaya/tarikkilickaya/blob/output/github-contribution-grid-snake.gif)
