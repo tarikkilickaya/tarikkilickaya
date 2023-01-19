@@ -38,6 +38,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lambda-icon.png" alt="lambda" width="40" height="40"/> </a> 
 <!-- Maven -->
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="38"/> </a> 
+<br
 <!-- IntelliJ -->
 <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
 <!-- PostgreSQL -->
