@@ -45,6 +45,8 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="38"/> </a> 
 <!-- IntelliJ -->
 <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
+<!-- Aqua -->
+<a href="https://www.jetbrains.com/aqua/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JetBrains/logos/318905148b7074a044586c6567d1ee76d8fb49e2/web/aqua/aqua.svg" alt="aqua" width="40" height="40"/> </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a>  
 <!-- VS Code -->
