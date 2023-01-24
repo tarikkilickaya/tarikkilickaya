@@ -39,7 +39,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Lambda -->
 <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lambda-icon.png" alt="lambda" width="40" height="40"/> </a> 
 <!-- JMeter -->
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/jmeter.png" alt="jmeter" width="100" height="40"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="100" height="40"/> </a>
 </p>
 
 <p>
