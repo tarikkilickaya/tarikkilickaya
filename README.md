@@ -27,7 +27,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Appium Inspector -->
 <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="38" height="38"/> </a> 
  <!-- HTML -->
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="43" height="42"/></a>
 <!-- CSS -->
