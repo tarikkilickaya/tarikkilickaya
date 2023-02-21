@@ -32,7 +32,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="44" height="43"/></a>
  <!-- Cypress -->
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png" alt="cypress" width="40" height="40"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://dashboard.cypress.io/img/cypress-logo-round-light-bg.png" alt="cypress" width="40" height="40"/> </a>
 <!-- Lambda -->
 <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lambda-icon.png" alt="lambda" width="40" height="40"/> </a> 
 <!-- JMeter -->
