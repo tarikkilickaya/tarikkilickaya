@@ -69,4 +69,4 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
  
 
 
-![snake gif](https://github.com/tarikkilickaya/tarikkilickaya/blob/output/github-contribution-grid-snake.gif)
+
