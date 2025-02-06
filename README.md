@@ -49,7 +49,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <!-- Aqua -->
 <a href="https://www.jetbrains.com/aqua/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JetBrains/logos/318905148b7074a044586c6567d1ee76d8fb49e2/web/aqua/aqua.svg" alt="aqua" width="40" height="40"/> </a>
 <!-- PostgreSQL -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="postgresql" width="40" height="40"/> </a>  
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
  <!-- Postman -->
