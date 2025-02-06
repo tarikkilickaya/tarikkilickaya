@@ -16,7 +16,7 @@ I don't watch many movies, but when I want to watch it, I prefer arthouse movies
 <h2 align="left">Technical Skills:</h2>
 <p align="left">
 <!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a> 
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a> 
 <!-- Selenium -->
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="selenium" width="40" height="40"/> </a> 
 <!-- Selenide -->
